@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px) {
+    .box {
+        width: calc((100% / 3) - 10px);
+        flex-wrap: wrap;
+    }
+
+    main .navbar {
+        width: 60px;
+    }
+}
+
+
